@@ -24,3 +24,4 @@ https://github.com/dibingfa/dibingfa-coreutils
 - fcntl
 - malloc
 - size_t
+- static 等变量内存布局
