@@ -25,3 +25,4 @@ https://github.com/dibingfa/dibingfa-coreutils
 - malloc
 - size_t
 - static 等变量内存布局
+- read write linenumber
